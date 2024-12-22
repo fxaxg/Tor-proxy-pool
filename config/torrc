@@ -1,0 +1,16 @@
+SOCKSPort 38801
+SOCKSPort 38802
+SOCKSPort 38803
+SOCKSPort 38804
+SOCKSPort 38805
+SOCKSPort 38806
+SOCKSPort 38807
+SOCKSPort 38808
+SOCKSPort 38809
+SOCKSPort 38810
+
+SOCKSPolicy accept 127.0.0.1
+SOCKSPolicy reject *
+
+NewCircuitPeriod 30
+CircuitBuildTimeout 10

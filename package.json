@@ -1,0 +1,8 @@
+{
+  "name": "tor-proxy",
+  "version": "1.0.0",
+  "main": "src/proxy.js",
+  "dependencies": {
+    "socks": "^2.7.1"
+  }
+} 
